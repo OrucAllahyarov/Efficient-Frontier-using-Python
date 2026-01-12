@@ -39,6 +39,6 @@ Plotly
 
 yfinance
 
-Disclaimer
+❗️Disclaimer
 
 This project is for educational purposes only and does not constitute financial or investment advice.
