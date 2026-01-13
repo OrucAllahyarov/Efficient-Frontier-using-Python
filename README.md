@@ -23,7 +23,7 @@ Why This Project?
 
 Portfolio optimization concepts can feel abstract when only explained theoretically. This project focuses on turning those ideas into clear, working Python code using real market data. It is intended for anyone interested in quantitative finance, portfolio management, or applying Python to financial analysis.
 
-Technologies Used
+Technologies Used:
 
 Python
 
